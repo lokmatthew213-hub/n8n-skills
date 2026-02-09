@@ -1,7 +1,6 @@
 ---
 name: poe-api-expert
 description: Expert guide for using the Poe API MCP server to access 327+ AI models including GPT-5, Claude 4.5, Gemini 3, Grok 4, DeepSeek, and more. Use when calling specific Poe models, getting model recommendations, listing available models, or executing tasks with specialized AI models through the poe-api MCP server.
-license: MIT
 ---
 
 # Poe API Expert
